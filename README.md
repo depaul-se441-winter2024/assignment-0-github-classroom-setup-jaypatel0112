@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is EJay Patel and my GitHub alias is jaypatel0112.
+My name is Jay Patel and my GitHub alias is jaypatel0112.
 
 ## Optional Next Steps
 
